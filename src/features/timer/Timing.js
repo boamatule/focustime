@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import { View, StyleSheet } from 'react-native';
-import { colors } from '../../utils/colors';
-import { spacingSizes } from '../../utils/sizes';
 import { RoundedButton } from '../../components/RoundedButton';
 
 export const Timing = ({ onChangeTime }) => {
